@@ -95,19 +95,17 @@ The complete Arduino source code is available in the project repository.
 
 ## Project Images
 
-## Project Images
-
 ### Hardware Setup
 
-![Hardware Setup](./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM.jpeg)
+![Hardware Setup](./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM%20\(1\).jpeg)
+(./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM.jpeg)
 
 ### Circuit and Sensor Connections
 
-![Circuit and Sensor Connections](./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM%20\(1\).jpeg)
-
+![Circuit and Sensor Connections](./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM%20\(2\).jpeg)
 ### Project Demonstration
 
-![Project Demonstration](./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM%20\(2\).jpeg)
+![Project Demonstration](./WhatsApp%20Image%202026-08-25%20at%2011.28.08%20PM.jpeg)
 
 
 ## Future Improvements
